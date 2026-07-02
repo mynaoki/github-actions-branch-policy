@@ -18,7 +18,6 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: read
-      administration: write
       actions: write
 
     steps:
